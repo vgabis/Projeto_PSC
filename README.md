@@ -1,0 +1,1 @@
+Trata-se de um sistema que possíbilite o cliente encontrar um profissional para realizear um determinado serviço de cunho domestico como, encanamento, eletríco, troca de  chuveiro, instalação de suporte, etc. O sistema deve realizar a gestão de profissionais, clientes e serviços (cadastrar, editar, excluir, etc).
